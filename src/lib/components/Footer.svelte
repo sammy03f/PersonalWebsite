@@ -1,8 +1,5 @@
 <footer class="layout-md mt-20 text-lg flex flex-col">
   <div class="row">
-    <span>Twitter</span>
-    <hr />
-    <a class="link" href="https://twitter.com/ekzhang1">@ekzhang1</a>
   </div>
   <div class="row">
     <span>GitHub</span>
