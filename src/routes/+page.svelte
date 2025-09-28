@@ -62,20 +62,18 @@
 <div class="layout-md text-lg space-y-14">
   <div class="space-y-5">
     <p>
-      I currently work at <a class="link" href="https://modal.com">Modal</a>, a
-      new cloud computing platform.
+      Im a student at <a class="link" href="https://www.berkeley.edu/">UC Berkeley</a>, where I study Applied Mathematics
+      with a concentration in Data Science.
     </p>
 
     <p>
-      I hope to develop better <em>interactive software</em> for people to cultivate
-      and share ideas, and to meaningfully express what brings them joy.
+      Im passionate about where <em>AI</em>, <em> Math</em>, and <em>Entrepreneurship</em> meet,
+      turning bold ideas into real solutions that make life better.
     </p>
 
     <p>
-      Towards that goal, I am a generalist and care deeply about <em>systems</em
-      >, which form the fundamental building blocks of our applications; and
-      <em>interaction design</em>, how we use and live with computers that are
-      all around us.
+      I thrive on bridging theory and practice, whether its using math to unlock new insights, 
+      AI to scale possibilities, or entrepreneurship to bring ideas into the real world.
     </p>
   </div>
 
