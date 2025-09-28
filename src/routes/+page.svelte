@@ -47,7 +47,7 @@
 </script>
 
 <Seo
-  title="Eric Zhang"
+  title="Samuel Fisher"
   description="Software engineer, researcher, and designer. Making meaningful systems and interfaces for people."
 />
 
@@ -55,9 +55,8 @@
   class="layout-md text-black text-xl leading-tight font-light mb-16"
   id="eric-is"
 >
-  <span class="g">is a</span> software engineer<span class="g">,</span><br />
-  researcher<span class="g">, and</span><br />
-  designer<span class="g">.</span>
+  Applied Mathematics <span class="g"></span><span class="g"> @ </span>UC Berkeley<span class="g">
+  <span class="g">.</span>
 </p>
 
 <div class="layout-md text-lg space-y-14">
