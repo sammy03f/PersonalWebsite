@@ -6,15 +6,10 @@ const config = {
   preprocess: [preprocess({ postcss: true })],
 
   kit: {
-    adapter: adapter({
-      pages: "build",
-      assets: "build",
-      fallback: null,
-      precompress: false,
-      strict: true
-    }),
+    adapter: adapter(),   // defaults to build/ for output
     paths: {
-      base: process.env.NODE_ENV === 'production' ? '' : ''
+      base: "",   // root of samuel-fisher.com
+      assets: ""  // serve assets (_app) from the same domain
     }
   },
 };
