@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# Allow CSS and JS files
+Allow: /_app/
+Allow: /assets/
+
+Sitemap: https://www.samuel-fisher.com/sitemap.xml
