@@ -1,5 +1,5 @@
 ---
-title: Porche Chatbot
+title: Porsche Chatbot
 date: 2024-06-15
 repo: sammy03f/Porsche-Chatbot
 topics: ["NLP", "Machine Learning", "Python"]
