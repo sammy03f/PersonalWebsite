@@ -3,7 +3,7 @@
 
   const links = [
     { name: "projects", href: "/projects" },
-    { name: "writing", href: "/writing" },
+  //{ name: "writing", href: "/writing" },
     { name: "resume", href: "/resume" },
   ];
 

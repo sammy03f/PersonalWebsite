@@ -4,7 +4,7 @@
 </script>
 
 <Seo
-  title="Eric Zhang – Resume"
+  title="Samuel Fisher – Resume"
   description="Software engineer, researcher, and designer. Making meaningful systems and interfaces for people."
 />
 
@@ -13,284 +13,116 @@
 
   <div class="mb-4">
     <div class="flex justify-between items-end">
-      <h3 class="text-black text-lg">Harvard University</h3>
-      <div class="text-neutral-500 mb-0.5">2022 — 2023</div>
+      <h3 class="text-black text-lg">University of California, Berkeley</h3>
+      <div class="text-neutral-500 mb-0.5">2025 — 2027</div>
     </div>
-    <p class="byline">S.M. in Computer Science</p>
+    <p class="byline">B.A. in Applied Mathematics</p>
   </div>
 
   <div class="mb-4">
     <div class="flex justify-between items-end">
-      <h3 class="text-black text-lg">Harvard University</h3>
-      <div class="text-neutral-500 mb-0.5">2019 — 2023</div>
+      <h3 class="text-black text-lg">Santa Monica College</h3>
+      <div class="text-neutral-500 mb-0.5">2024 — 2025</div>
     </div>
-    <p class="byline">A.B. in Computer Science and Mathematics</p>
+    <p class="byline">A.S. in Computer Science and Mathematics</p>
   </div>
 
-  <p>Graduated magna cum laude, with highest honors in field.</p>
+  <p>Cumulative GPA: 3.8</p>
 
-  <h4 class="font-medium mt-4 mb-1">Teaching:</h4>
+  <h4 class="font-medium mt-4 mb-1">Coursework:</h4>
   <ul>
-    <li>
-      TF for CS 153 (Compilers), Fall 2021 —
-      <em>Certificate of Distinction in Teaching</em>
-    </li>
-    <li>
-      TA for
-      <a class="link" href="https://sgi.mit.edu/"
-        >Summer Geometry Institute (SGI)</a
-      >, Summer 2021
-    </li>
-    <li>
-      TF for CS 161 (Operating Systems), Spring 2021 —
-      <em>Certificate of Distinction in Teaching</em>
-    </li>
-    <li>TF for CS 182 (Artificial Intelligence), Fall 2020</li>
-    <li>
-      TF for CS 124 (Data Structures and Algorithms), Spring 2020 —
-      <em>Commendation for Extraordinary Teaching</em>
-    </li>
+    <li>Math 110 (Abstract Linear Algebra)</li>
+    <li>Math 55 (Discrete Mathematics)</li>
+    <li>Math 54 (Linear Algebra & Differential Equations)</li>
+    <li>Math 53 (Multivariable Calculus)</li>
+    <li>CS 61B (Data Structures)</li>
+    <li>CS 61A (Structure of Computer Programs)</li>
+    <li>Physics 7B (Mechanics and wave motion)</li>
+    <li>Physics 7A (Heat, electricity, and magnetism)</li>
   </ul>
 
-  <h4 class="font-medium mt-4 mb-1">Graduate-level technical coursework:</h4>
+<h4 class="font-medium mt-4 mb-1">Extracurriculars:</h4>
   <ul>
-    <li>Advanced Computational Complexity (CS 221)</li>
-    <li>Random Processes and Algorithms (CS 223)</li>
-    <li>Computational Learning Theory (CS 228)</li>
-    <li>Advanced Computer Networks (CS 243)</li>
-    <li>Advanced Topics in PL/AI (CS 252r)</li>
-    <li>Advanced Topics in PL Design (CS 252r)</li>
-    <li>Systems Security (CS 263)</li>
-    <li>Distributed Systems Engineering (MIT 6.824)</li>
-    <li>Shape Analysis (MIT 6.838)</li>
-    <li>Robotic Manipulation (MIT 6.843)</li>
-    <li>Probability (Stat 210)</li>
-    <li>Statistical Inference (Stat 211)</li>
+    <li>
+      <a class="link" href="https://www.180dcberkeley.com/"
+        >180 Degrees Consulting (UC Berkeley)</a>
+    </li>
+        <p class="byline">Consultant, providing strategic solutions for nonprofits and social enterprises</p>
+    <li>
+      <a class="link" href="https://www.instagram.com/connect.club.smc/"
+        >Connect Club (Santa Monica College)</a>
+        </li>
+        <p class="byline">Founder & President, created a space for community college students to network and enhance their professional profiles</p>
+    <li>
+      Comptetitive Coding Club (Santa Monica College)
+        </li>
+        <p class="byline">Founder & President, led the club in algorithmic problem-solving and competitive programming contests</p>
   </ul>
 
-  <h4 class="font-medium mt-4 mb-1">Undergraduate technical coursework:</h4>
-  <ul>
-    <li>Compilers (CS 153)</li>
-    <li>Operating Systems (CS 161)</li>
-    <li>Computer Graphics (MIT 6.837)</li>
-    <li>Nanotechnology Fabrication (MIT 6.2540)</li>
-    <li>Chaotic Dynamical Systems (Math 118r)</li>
-    <li>Number Fields (Math 129)</li>
-    <li>Differential Topology (Math 132)</li>
-    <li>Honors Abstract Algebra (Math 55a)</li>
-    <li>Honors Real and Complex Analysis (Math 55b)</li>
-  </ul>
 </section>
 
 <section class="layout-md py-12">
   <h2 class="heading2">Professional Experience</h2>
-
+ <!---->
   <Workplace
-    title="Founding Engineer"
-    company="Modal Labs"
-    url="https://modal.com/"
-    dates="February 2022 – Current"
-    location="New York, NY"
+    title="Teaching Assistant (Calculus I, II, & III)"
+    company="Santa Monica College"
+    url="https://www.smc.edu/student-support/academic-support/supplemental-instruction/"
+    dates="August 2024 – May 2025"
+    location="Santa Monica, CA"
   >
-    <li>Founding team member (#4), currently lead Infrastructure Research.</li>
     <li>
-      I was the principal engineer for Modal's container runtime, the
-      high-performance Rust system that executes Modal Functions. It handles
-      hardware differences across a cluster that spans multiple clouds (200,000
-      CPUs and 9,000 GPUs); while dealing with real-time, data-intensive
-      workloads from thousands of customers.
+     As a Teaching Assistant for three levels of Calculus, 
+     I worked directly with three different professors to support over a hundred students each semester 
+     in mastering one of the most challenging sequences in mathematics. I wasn’t just grading or answering 
+     questions, I was building a bridge between complex material and student understanding.
     </li>
     <li>
-      I developed Modal's high-throughput content-addressed file system, tiered
-      cache over petabytes of data, a novel <a
-        class="link"
-        href="https://modal.com/blog/serverless-http">serverless HTTP stack</a
-      >, distributed
-      <a class="link" href="https://modal.com/docs/guide/tunnels">TLS relays</a
-      >, container sandboxing via
-      <a class="link" href="https://gvisor.dev/users/">gVisor</a>,
-      <a class="link" href="https://modal.com/docs/guide/private-networking"
-        >eBPF network infrastructure</a
-      >, and a
-      <a class="link" href="https://modal.com/blog/vprox">WireGuard-based VPN</a
-      >.
+      I led weekly problem solving sessions where I broke down difficult concepts like multivariable derivatives, 
+      integration techniques, and series convergence into clear components. During office hours and study workshops, 
+      I tailored explanations to each student’s learning style, helping them move from confusion to confidence. Many students told me 
+      my sessions were the first time the material “clicked.”
+    <li>
+      I also created fulllength mock exams modeled after the professor’s style, giving students a realistic way to test their 
+      knowledge under exam-like conditions. These weren’t just recycled homework problems, they were carefully designed to highlight 
+      common pitfalls and integrate multiple concepts into single problems.
+      After each mock exam, I held review sessions where we walked through the solutions together, focusing on why certain approaches worked and where students often tripped up. 
+      This gave them both the technical practice and the exam day confidence to perform at their best.
     </li>
     <li>
-      I was Modal's first product-focused engineer and designer. While building
-      <a class="link" href="https://modal.com">modal.com</a>, I developed a
-      feeling for crafting interfaces to make complex systems legible. Mentored
-      and grew a world-class product engineering team.
-    </li>
-    <li>
-      For 3 years, was #1 committer, made technical decisions like adopting Rust
-      and Svelte despite early skepticism and shaped the long-term direction.
-    </li>
-    <li>
-      Built
-      <a class="link" href="https://modal.com/blog/notebooks">Modal Notebooks</a
-      >, a high-performance hosted Jupyter Notebook with GPU kernels that start
-      in seconds. Includes sharing, collaborative editing, modern editor
-      features.
+      Here are some of the exams I made: 
+      <a class="link" href="/assets/pdf/Practice Exam 5 KONYA MATH 7.pdf" target="_blank" rel="noopener noreferrer"> Calculus 1 </a>
+      <a class="link" href="/assets/pdf/Practice Exam 2 Soleymani MATH 8 v0.1.pdf" target="_blank" rel="noopener noreferrer"> Calculus 2 </a>
+
     </li>
   </Workplace>
 
   <Workplace
-    title="Contract Software Engineer"
-    company="Prosper Robotics"
-    url="https://prosper.org/"
-    dates="January 2022"
-    location="London, UK"
+    title="Information Technology Intern"
+    company="Jonathan Club"
+    url="https://www.jc.org/"
+    dates="May 2024 – June 2024"
+    location="Santa Monica, CA"
   >
     <li>
-      Early-stage startup developing VR-teleoperated household robots. Worked
-      with electrical and mechanical engineers.
+      Supported the IT department in maintaining and upgrading the club's
+      network infrastructure, ensuring seamless connectivity for members and staff.
     </li>
     <li>
-      I wrote real-time (&lt;10 μs) embedded microcontrollers in C++, developed
-      new network services and robot control systems in Go. Refactored a lot of
-      code, fixed many bugs, ported software to a new robot, introduced
-      continuous integration, tests, static type checking for Python.
+      Assisted in troubleshooting hardware and software issues, providing
+      technical support to end-users, and documenting solutions for future reference.
+    </li>
+    <li>
+      Conducted system audits to identify potential vulnerabilities and
+      recommended improvements to enhance security and efficiency.
+    </li>
+    <li>
+      Collaborated with the team to implement new software solutions, including
+      training staff on their usage and benefits.
     </li>
   </Workplace>
 
-  <Workplace
-    title="Software Engineer"
-    company="Convex"
-    url="https://convex.dev/"
-    dates="June 2021 – October 2021"
-    location="San Francisco, CA"
-  >
-    <li>
-      First hired engineer at a seed-stage startup. Worked with three
-      experienced technical cofounders (ex-principal engineers at Dropbox) to
-      build a reactive, serverless database platform using Rust, integrated with
-      the V8 JavaScript engine.
-    </li>
-    <li>
-      Wrote significant components of the MVP. As an early core team member,
-      this included rearchitecting the entire Convex client library, writing
-      several systems components in Rust, and advising on developer experience.
-    </li>
-  </Workplace>
-
-  <Workplace
-    title="Quantitative Research Intern"
-    company="Jump Trading"
-    url="https://jumptrading.com/"
-    dates="June 2021 – August 2021"
-    location="Chicago, IL"
-  >
-    <li>
-      Won the intern trading strategies competition and rotated on a trading
-      team to research algorithmic signals in US equities.
-    </li>
-    <li>
-      Developed decentralized apps on the Ethereum blockchain for the
-      cryptocurrency team, including new trading algorithms on DEXs. Contributed
-      to the open source Ethereum ecosystem in Rust, Go, and Python.
-    </li>
-  </Workplace>
-
-  <Workplace
-    title="Software Engineering Intern"
-    company="Scale AI"
-    url="https://scale.com/"
-    dates="December 2020 – January 2021"
-    location="San Francisco, CA"
-  >
-    <li>
-      Worked on machine learning infrastructure for a fast-growing startup using
-      Terraform, Kubernetes, and AWS.
-    </li>
-    <li>
-      Developed an in-house system to unify the ML training workflow, allowing
-      the team to quickly iterate on models, share results on a tracking server,
-      and launch Kubernetes distributed training jobs, saving “hours” of time on
-      each experiment.
-    </li>
-  </Workplace>
-
-  <Workplace
-    title="Architecture Intern"
-    company="Nvidia"
-    url="https://www.nvidia.com"
-    dates="June 2020 – August 2020"
-    location="Santa Clara, CA"
-  >
-    <li>
-      Worked with the Applied Deep Learning Research (ADLR) group on
-      <a class="link" href="https://arxiv.org/abs/2005.10821"
-        >deep learning models</a
-      > for street image segmentation.
-    </li>
-    <li>
-      Individually developed and released
-      <a class="link" href="https://github.com/ekzhang/fastseg">FastSeg</a>, an
-      open-source library containing state-of-the-art PyTorch implementations of
-      MobileNetV3 LR-ASPP for real-time semantic segmentation, significantly
-      more accurate than existing public implementations.
-    </li>
-  </Workplace>
-
-  <Workplace
-    title="Research Assistant"
-    company="Harvard Programming Languages Group"
-    url="https://pl.seas.harvard.edu/"
-    dates="June 2020 – August 2020"
-    location="Cambridge, MA"
-    defaultHidden
-  >
-    <li>
-      Worked on a C++ compiler for
-      <a class="link" href="https://github.com/HarvardPL/formulog">Formulog</a>,
-      a variant of Datalog that supports ML-like syntax extension and SMT
-      queries.
-    </li>
-    <li>
-      Generated highly parallel templatized C++17 code, used caching in B-Tree
-      comparisons to speed up Datalog evaluation by 16x, and optimized existing
-      OpenMP code using lockless data structures for an additional 4x speedup.
-    </li>
-    <li>
-      Wrote a handwritten parser that was 30x faster than the ANTLR-generated
-      LL(*) parser and used 20x less memory (80 GB to 4 GB).
-    </li>
-  </Workplace>
-
-  <Workplace
-    title="Undergraduate Researcher"
-    company="Predictive Medicine Group"
-    url="https://www.predmed.org/"
-    dates="December 2019 – June 2020"
-    location="Boston, MA"
-    defaultHidden
-  >
-    <li>
-      Conducted research in statistics & medical informatics advised by Ben Reis
-      (Harvard Medical School), developing temporal models to identify patients
-      at high risk of suicide based on medical histories obtained from
-      Massachusetts General Hospital.
-    </li>
-  </Workplace>
-
-  <Workplace
-    title="Computer Science Instructor"
-    company="AlphaStar Academy"
-    url="https://alphastar.academy/"
-    dates="December 2017 – April 2020"
-    location="Santa Clara, CA"
-    defaultHidden
-  >
-    <li>
-      Taught advanced algorithms and data structures (USACO Platinum) and
-      AIME-level (national math competition) mathematics to talented high school
-      students across the nation.
-    </li>
-    <li>
-      Developed detailed lesson plans and recorded lectures for future summer
-      programs and online courses.
-    </li>
-  </Workplace>
+<!--
 </section>
 
 <section class="layout-md py-12">
@@ -355,8 +187,9 @@
         (2016, 2018)
       </li>
     </ul>
-  </div>
+  </div>-->
 </section>
+
 
 <style lang="postcss">
   b {

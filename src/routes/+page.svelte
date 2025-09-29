@@ -75,8 +75,9 @@
       I thrive on bridging theory and practice, whether its using math to unlock new insights, 
       AI to scale possibilities, or entrepreneurship to bring ideas into the real world.
     </p>
+    <p>Other interests: Soccer (Real Madrid), Running, Reading (Sci-Fi), Cooking, Chess.
   </div>
-
+<!--
   <div class="leading-snug space-y-4">
     <p class="pb-2">Notable open-source work:</p>
 
@@ -95,6 +96,7 @@
       </a>
     {/each}
   </div>
+
 
   <div class="space-y-5">
     <p>
@@ -150,10 +152,9 @@
       <a class="link" href="https://youtu.be/OcucfY2Kzqo">7</a>,
       <a class="link" href="https://youngarts.org/">8</a>).
     </p>
-
     <p>Other interests: math, physics, reading, photography, and biking.</p>
   </div>
-
+-->
   <div class="space-y-5">
     <!-- <p>This is what I look like:</p> -->
     <img

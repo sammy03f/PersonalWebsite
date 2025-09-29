@@ -61,62 +61,12 @@
 </script>
 
 <Seo
-  title="Eric Zhang – Projects"
+  title="Samuel Fisher – Projects"
   description="Open-source software projects in systems, web development, computer graphics, music, programming languages, machine learning, and more."
 />
 
-<section class="layout-md py-12">
-  <h2 class="heading2">Open Source</h2>
 
-  <p class="text-lg mb-4">
-    I view building software in the open as a mode of <em
-      class="font-serif text-[110%] leading-[100%]">creative exploration</em
-    >. It lets me quickly act on inspiration, delve into new topics, and make
-    tools that improve people's lives.
-  </p>
 
-  <p class="text-lg mb-4">
-    You'll see that I particularly like programming languages, distributed
-    systems, machine learning, computer graphics, music, and art.
-  </p>
-
-  <p class="text-lg">
-    If you find something interesting,
-    <a class="link" href="mailto:ekzhang1@gmail.com?subject=Software%20Projects"
-      >let me know</a
-    >!
-  </p>
-</section>
-
-<div class="bg-gray-900 text-neutral-200 dark">
-  <section class="layout-md py-12">
-    <h2 class="heading2 text-white">Table of Contents</h2>
-    <ul class="sm:columns-2">
-      {#each projectsByTitle as id (id)}
-        <li>
-          <a class="link" href="#{trimName(id)}">{projects[id].title}</a>
-        </li>
-      {/each}
-    </ul>
-  </section>
-</div>
-
-<div class="bg-neutral-50 border-b border-neutral-200 py-4">
-  <div class="flex justify-center space-x-6">
-    <button
-      class:active={sortOrder === "date"}
-      on:click={() => (sortOrder = "date")}
-    >
-      <CalendarDays size={18} strokeWidth={1.8} class="mr-1.5" /> by Date
-    </button>
-    <button
-      class:active={sortOrder === "stars"}
-      on:click={() => (sortOrder = "stars")}
-    >
-      <Star size={18} strokeWidth={1.8} class="mr-1.5" /> by Stars
-    </button>
-  </div>
-</div>
 
 {#each sortOrder === "date" ? projectsByDate : projectsByStars as id (id)}
   <section class="py-10" id={trimName(id)}>
