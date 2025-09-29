@@ -5,19 +5,12 @@ repo: sammy03f/Porsche-Chatbot
 topics: ["NLP", "Machine Learning", "Python"]
 lead: A simple NLP and Neural Network personal project that sheds light to the beauty of German Automotive technology.
 image: Porsche Chatbot.png
+image_rounded: True
 ---
 
-`bore` is a minimal CLI tool that exposes local ports to a remote server,
-bypassing standard NAT connection firewalls. That's all it does: no more, and no
-less.
+A conversational chatbot powered by natural language processing and a neural network trained on custom Porsche related intents. The system uses tokenization, lemmatization, bag of words, and a Keras sequential model to classify user queries into categories such as greetings, model history, fastest cars, and pricing. Based on predicted intent, the bot selects responses from a curated knowledge base about Porsche’s history, models, and record breaking vehicles.
 
-With a single binary, you can expose any number of local TCP ports to the public
-internet at a specified remote server address. There is a public instance of the
-tunneling server running at `bore.pub`, available for anyone to use, similar to
-[ngrok](https://ngrok.com/) or
-[localtunnel](https://github.com/localtunnel/localtunnel). It's also very easy
-to host your own server with a single `bore server` command in the same binary
-executable, with optional authentication.
+The project demonstrates the fundamentals of intent classification, neural network training, and real time inference in a CLI chatbot environment. While it’s far from the most accurate chatbot, its predictions can sometimes be fuzzy, I love it because it reflects the joy of building something from scratch and seeing a working system come to life. Beyond being a fun demo of Porsche trivia, it also serves as a practical prototype for domain, specific Q&A systems built on lightweight machine learning.
 
 Link: [GitHub](https://github.com/sammy03f/Porsche-Chatbot)
 
