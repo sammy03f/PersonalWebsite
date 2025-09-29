@@ -42,7 +42,7 @@
   let stars: Record<string, number> | null = null;
   onMount(async () => {
     const resp = await fetch(
-      "https://api.github.com/users/ekzhang/repos?per_page=100"
+      "https://api.github.com/users/sammy03f/repos?per_page=100"
     );
     const repos = await resp.json();
     stars = {};
