@@ -48,7 +48,7 @@
 
 <Seo
   title="Samuel Fisher"
-  description="Software engineer, researcher, and designer. Making meaningful systems and interfaces for people."
+  description="Applied Mathematics Student @ UC Berkeley"
 />
 
 <p
@@ -62,7 +62,7 @@
 <div class="layout-md text-lg space-y-14">
   <div class="space-y-5">
     <p>
-      Im a student at <a class="link" href="https://www.berkeley.edu/">UC Berkeley</a>, where I study Applied Mathematics
+      Im a junior undergraduate student at <a class="link" href="https://www.berkeley.edu/">UC Berkeley</a>, where I study Applied Mathematics
       with a concentration in Data Science.
     </p>
 
@@ -158,7 +158,7 @@
   <div class="space-y-5">
     <!-- <p>This is what I look like:</p> -->
     <img
-      alt="Self-portrait photograph of Eric Zhang at his desk"
+      alt="Samuel Fisher Headshot"
       src="/assets/images/profile5.jpg"
     />
   </div>
