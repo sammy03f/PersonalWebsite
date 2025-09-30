@@ -37,8 +37,8 @@
     <li>Math 53 (Multivariable Calculus)</li>
     <li>CS 61B (Data Structures)</li>
     <li>CS 61A (Structure of Computer Programs)</li>
-    <li>Physics 7B (Mechanics and wave motion)</li>
-    <li>Physics 7A (Heat, electricity, and magnetism)</li>
+    <li>Physics 5B (Electromagnetism, Waves, and Optics)</li>
+    <li>Physics 5A (Mechanics and Relativity)</li>
   </ul>
 
 <h4 class="font-medium mt-4 mb-1">Extracurriculars:</h4>
