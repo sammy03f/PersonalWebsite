@@ -72,7 +72,7 @@
     </p>
 
     <p>
-      I thrive on bridging theory and practice, whether its using math to unlock new insights, 
+      I thrive on merging theory and practice, whether its using math to unlock new insights, 
       AI to scale possibilities, or entrepreneurship to bring ideas into the real world.
     </p>
     <p>Other interests: Soccer (Real Madrid), Running, Reading (Sci-Fi), Cooking, Chess.
