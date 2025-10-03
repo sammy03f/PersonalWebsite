@@ -62,12 +62,12 @@
 <div class="layout-md text-lg space-y-14">
   <div class="space-y-5">
     <p>
-      Im a junior undergraduate student at <a class="link" href="https://www.berkeley.edu/">UC Berkeley</a>, where I study Applied Mathematics
+      I'm a junior undergraduate student at <a class="link" href="https://www.berkeley.edu/">UC Berkeley</a>, where I study Applied Mathematics
       with a concentration in Data Science.
     </p>
 
     <p>
-      Im passionate about where <em>AI</em>, <em> Math</em>, and <em>Entrepreneurship</em> meet,
+      I'm passionate about where <em>AI</em>, <em> Math</em>, and <em>Entrepreneurship</em> meet,
       turning bold ideas into real solutions that make life better.
     </p>
 

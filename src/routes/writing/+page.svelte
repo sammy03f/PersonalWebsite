@@ -5,8 +5,8 @@
 </script>
 
 <Seo
-  title="Samuel Fisher – Writing"
-  description="Past writing: academic papers, presentations, notes, tutorials, and technical blog posts."
+  title="Samuel Fisher – Photo Album"
+  description="Photo Album"
 />
 
 <section class="layout-md py-12">
