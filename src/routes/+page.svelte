@@ -75,7 +75,7 @@
       I thrive on merging theory and practice, whether it's using math to unlock new insights, 
       AI to scale possibilities, or entrepreneurship to bring ideas into the real world.
     </p>
-    <p>Other interests: Soccer (Real Madrid), Running (If my lungs allow me), Reading (Sci-Fi), Cooking, Chess.
+    <p>Other interests: Soccer (Real Madrid), Running, Reading (Sci-Fi), Cooking, Chess.
       Also, I've been playing <a class="link" href="https://www.nytimes.com/games/pips">Pips</a> on NYT Games every day!
   </div>
 <!--
