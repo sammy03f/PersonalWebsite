@@ -31,6 +31,9 @@
 
   <h4 class="font-medium mt-4 mb-1">Coursework:</h4>
   <ul>
+    <li>EECS 126 (Probability and Random Processes)</li>
+    <li>Math 156 (Numerical Analysis for Data Science and Statistics)</li>
+    <li>Math 113 (Abstract Algebra)</li>
     <li>Math 110 (Abstract Linear Algebra)</li>
     <li>Math 55 (Discrete Mathematics)</li>
     <li>Math 54 (Linear Algebra & Differential Equations)</li>

@@ -63,7 +63,7 @@
   <div class="space-y-5">
     <p>
       I'm a junior undergraduate student at <a class="link" href="https://www.berkeley.edu/">UC Berkeley</a>, where I study Applied Mathematics
-      with a concentration in Data Science and Probability.
+      with a concentration in Data Science.
     </p>
 
     <p>
