@@ -57,7 +57,7 @@
         </li>
         <p class="byline">Founder & President, created a space for community college students to network and enhance their professional profiles</p>
     <li>
-      Comptetitive Coding Club (Santa Monica College)
+      competitive Coding Club (Santa Monica College)
         </li>
         <p class="byline">Founder & President, led the club in algorithmic problem-solving and competitive programming contests</p>
   </ul>
