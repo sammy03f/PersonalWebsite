@@ -16,7 +16,7 @@
       <h3 class="text-black text-lg">University of California, Berkeley</h3>
       <div class="text-neutral-500 mb-0.5">2025 — 2027</div>
     </div>
-    <p class="byline">B.A. in Applied Mathematics</p>
+    <p class="byline">B.A. in Applied Mathematics (Computer Science)</p>
   </div>
 
   <div class="mb-4">
