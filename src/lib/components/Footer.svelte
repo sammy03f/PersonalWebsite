@@ -11,6 +11,11 @@
     <hr />
     <a class="link" href="mailto:samuelfisher@berkeley.edu">samuelfisher@berkeley.edu</a>
   </div>
+  <div class="row">
+    <span>LinkedIn</span>
+    <hr />
+    <a class="link" href="https://www.linkedin.com/in/samuelfisher1215">@samuelfisher1215</a>
+  </div>
 </footer>
 
 <style lang="postcss">
